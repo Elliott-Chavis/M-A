@@ -4,6 +4,6 @@ Lab 00 - Infrastructure & Identity Seeding https://github.com/Elliott-Chavis/M-A
 
 Lab 01 - Group-Based Licensing & Data Governance https://github.com/Elliott-Chavis/M-A/tree/main/Lab%2001
 
-
+Lab 02 - High-Assurance Identity Hardening & M&A Segmentation https://github.com/Elliott-Chavis/M-A/tree/main/Lab%2002
 
 
